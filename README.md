@@ -88,7 +88,7 @@ By installing or using this software, you agree to:
 ---
 
 **Developed by Payam Avarwand**  
-**Initial Release: September 2025**  
+**Initial Release: August 2025**  
 **Last Updated: September 2024**
 
 ## Contact
