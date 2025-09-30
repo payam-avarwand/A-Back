@@ -2,17 +2,6 @@
 
 A user-friendly, Python-based backup and restore solution for Windows, designed to securely archive and restore essential user data including documents, browser favorites, and application-specific data from Microsoft Outlook, Word, and major browsers. With an intuitive graphical interface, it creates compressed ZIP backups with detailed logging and ensures data integrity through process verification and storage space checks.
 
-## Code Features
-
-- **Intuitive Interface**: Clean Tkinter-based GUI for easy backup and restore management
-- **Comprehensive Data Coverage**: Backs up Documents, Pictures, Downloads, Desktop, Music, Videos, and application data
-- **Browser Support**: Microsoft Edge favorites, Internet Explorer, Firefox bookmarks
-- **Microsoft Office Data**: Outlook signatures, additional mailboxes, Word user dictionaries, and AutoText templates
-- **Smart Process Checking**: Verifies running processes and available storage before operations
-- **Detailed Logging**: Comprehensive debug logs with timestamps for all operations
-- **Automatic Cleanup**: Robust temporary file cleanup for clean operations
-- **Administrative Checks**: Ensures proper permissions for reliable operation
-
 ## Supported Data Paths
 
 - **Microsoft Edge Favorites**: `C:\Users\<USERNAME>\AppData\Local\Microsoft\Edge\User Data\Default\Bookmarks`
@@ -65,9 +54,20 @@ The application maintains comprehensive logs including:
 - Storage space verification
 - Temporary file cleanup status
 
+## Code Features
+
+- **Intuitive Interface**: Clean Tkinter-based GUI for easy backup and restore management
+- **Comprehensive Data Coverage**: Backs up Documents, Pictures, Downloads, Desktop, Music, Videos, and application data
+- **Browser Support**: Microsoft Edge favorites, Internet Explorer, Firefox bookmarks
+- **Microsoft Office Data**: Outlook signatures, additional mailboxes, Word user dictionaries, and AutoText templates
+- **Smart Process Checking**: Verifies running processes and available storage before operations
+- **Detailed Logging**: Comprehensive debug logs with timestamps for all operations
+- **Automatic Cleanup**: Robust temporary file cleanup for clean operations
+- **Administrative Checks**: Ensures proper permissions for reliable operation
+
 ## Contributing
 
-This is a personal project released as freeware. While primarily maintained by the author, suggestions and feedback are welcome via email.
+This is a project released as freeware. While primarily maintained by the author, suggestions and feedback are welcome via email.
 
 ## License
 
@@ -89,7 +89,7 @@ By installing or using this software, you agree to:
 
 **Developed by Payam Avarwand**  
 **Initial Release: August 2025**  
-**Last Updated: September 2024**
+**Last Updated: September 2025**
 
 ## Contact
 
