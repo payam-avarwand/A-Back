@@ -6,7 +6,7 @@
 #define MyAppIcon "C:\temp\aback.ico"
 #define MyVbsLauncher "A Back_Launcher.vbs"
 #define MyAppIconName "aback.ico"
-#define MyAppFileVersion "1.2.0.80"
+#define MyAppFileVersion "1.2.0.85"
 
 [Setup]
 AppId={{A_Back.com.yahoo@Avar_Payam}
